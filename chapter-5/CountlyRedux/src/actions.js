@@ -1,5 +1,3 @@
-import Dispatcher from './Dispatcher';
-
 export const increment = () => {
     const action = {
         type: 'INCREMENT'
