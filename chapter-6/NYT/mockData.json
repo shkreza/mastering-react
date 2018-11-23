@@ -1,0 +1,16 @@
+{
+    "news": [
+        {
+            "title": "Best news article!",
+            "imageUrl": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+            "description": "This is really great!",
+            "author": "Reza"
+        },
+        {
+            "title": "Worst news article!",
+            "imageUrl": "https://facebook.github.io/react-native/img/header_logo.png",
+            "description": "This is not good!",
+            "author": "Reza"
+        }
+    ]    
+}

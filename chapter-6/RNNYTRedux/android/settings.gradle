@@ -1,0 +1,3 @@
+rootProject.name = 'RNNYTRedux'
+
+include ':app'
