@@ -1,0 +1,14 @@
+{
+    "news": [
+        {
+            "author": "reza",
+            "imageUrl": "https://yt3.ggpht.com/a-/AN66SAz_X-64f4e7pTD7Aq3eLiwoPPTjrQa6CEdn7A=s88-mo-c-c0xffffffff-rj-k-no",
+            "title": "Some title"
+        },
+        {
+            "author": "roya",
+            "imageUrl": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjGnMj6zeneAhW7HzQIHaJ6ArEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.youtube.com%2Fuser%2Fgoogleplay&psig=AOvVaw3lB7ThNr7Q-YKJtnX4C5pJ&ust=1543031129438990",
+            "title": "Some title"
+        }
+    ]
+}

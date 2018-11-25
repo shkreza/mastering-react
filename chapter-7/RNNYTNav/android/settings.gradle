@@ -1,0 +1,3 @@
+rootProject.name = 'RNNYTNav'
+
+include ':app'
